@@ -1,0 +1,9 @@
+This tool looks through a file,
+line by line, trying to find a user-specified word
+Here is how a user would look
+for the term foo in the file bar.txt:
+this line has foo in it
+so does this foolish line; do you see where?
+even this line, which has barfood in it, will be printed
+this is the end of the text.
+
